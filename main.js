@@ -4,7 +4,6 @@ let origin = prompt("Where are you from " + name);
 let resident = prompt("Are you a lawful resident of US " + name);
 let date = prompt("When did you enter US from " + origin);
 let job = prompt("What is your educational degree " + name);
-
 console.log(origin);
 console.log(resident);
 console.log(date);
