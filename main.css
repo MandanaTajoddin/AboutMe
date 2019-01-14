@@ -1,11 +1,26 @@
 body{
-    background-color: pink;
-    font-style: italic;
-    
+    background-image: url("img/gray.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    image-resolution: 1%; 
+    font-style: italic;   
 }
-h2{
+h1{
    position: relative;
-   left:30px;
-   top :25px;
+   font-size: 250%;
+   font-weight: bold;
+   font-style: italic;
+   left:40px;
+   top :90px;
+}
+
+#list{
+    position: relative;
+    font-size: 200%;
+    font-weight: bold;
+    font-style: italic;
+    left:30px;
+    top :120px;
 }
  
+
